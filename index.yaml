@@ -11,7 +11,7 @@ entries:
     name: sloth
     type: application
     urls:
-    - sloth-0.1.4.tgz
+    - releases/download/sloth-0.1.4/sloth-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
     appVersion: 4f64237ae8cc5a4bf81eb23b76894a99cc4cb19f
@@ -23,6 +23,6 @@ entries:
     name: sloth
     type: application
     urls:
-    - sloth-0.1.3.tgz
+    - releases/download/sloth-0.1.4/sloth-0.1.3.tgz
     version: 0.1.3
 generated: "2025-06-03T17:12:05.036631-04:00"
